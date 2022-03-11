@@ -1,6 +1,6 @@
-com/example/activemq/activeMQProject/repositories/PersonRepository.class
-com/example/activemq/activeMQProject/jms/Consumer.class
-com/example/activemq/activeMQProject/model/Person.class
-com/example/activemq/activeMQProject/model/Person$PersonBuilder.class
-com/example/activemq/activeMQProject/config/JmsConfig.class
-com/example/activemq/activeMQProject/ActiveMqProjectApplication.class
+com/example/activemq/consumer/repositories/PersonRepository.class
+com/example/activemq/consumer/config/JmsConfig.class
+com/example/activemq/consumer/model/Person.class
+com/example/activemq/consumer/jms/Consumer.class
+com/example/activemq/consumer/model/Person$PersonBuilder.class
+com/example/activemq/producer/activemqproducer/ActivemqConsumerApplication.class

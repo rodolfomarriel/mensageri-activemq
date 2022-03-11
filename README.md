@@ -1,7 +1,7 @@
 # Mensageria ActiveMQ
 Mini projeto usando activeMQ para estudar mensageria
 
-## Dependencia usadas
+## Dependencias usadas
 H2<br/>
 ActiveMQ<br/>
 Java 14.0.2
