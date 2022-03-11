@@ -1,0 +1,6 @@
+com/example/activemq/producer/model/Person$PersonBuilder.class
+com/example/activemq/producer/resource/PersonResource.class
+com/example/activemq/producer/jms/Producer.class
+com/example/activemq/producer/config/JmsConfig.class
+com/example/activemq/producer/ProducerApplication.class
+com/example/activemq/producer/model/Person.class
